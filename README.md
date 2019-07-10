@@ -1,2 +1,5 @@
 # Detecting-Script
-This is a Demo of Detecting Script , If Any Action is Perform in Operating system ,This Script is Note the activity. 
+This is a Demo of Detecting Script.
+Use For Detecting Actions in operating system
+Writen in Batch file Programming.
+Technique For  Handling outer Media Devices
