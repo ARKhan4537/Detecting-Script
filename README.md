@@ -8,7 +8,7 @@ This is a Demo of Detecting Scripts.
 
 Actually , This is a Technique that Developed by me.
 
-What is Sence of Detecting Scriptes , Detecting script Detect Action that Operating system will Perform.
+What is Sense of Detecting Scriptes , Detecting script Detect Action that Operating system will Perform.
 For Example , You Open a New Folder that was a action.
 So these Kind of scriptes Note the Activity.
 
