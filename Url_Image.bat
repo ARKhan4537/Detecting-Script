@@ -1,6 +1,7 @@
 @echo off
 ::
-::Working 100% Try it
+:: Working 100% Try it
+:: A Technique For Auto Transfer Pictures/File From one Directory to another Directory Of Server /Network shareing files And Rename Images By Time.
 ::
 Title FileMove
 setlocal enableDelayedExpansion
