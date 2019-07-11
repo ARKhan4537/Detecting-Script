@@ -1,8 +1,8 @@
 @echo off
 ::
 :: Working 100% Try it
-:: A Technique For Auto Transfer Pictures/File From one Directory to another Directory Of Server /Network shareing files And Rename Images By Time.
-::
+:: A Technique For Auto Transfer Pictures/File From one Directory to another Directory Of Server /Network shareing files And Rename Images
+:: by Time that Getting Form Server. 
 Title FileMove
 setlocal enableDelayedExpansion
 md %systemdrive%\script
