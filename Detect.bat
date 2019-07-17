@@ -2,7 +2,7 @@
 ::
 ::   Note:::  This Script Detect Usb Device in Computer. :::
 ::
-::            This is Demo of Detecting script 
+::            This is Demo of Detecting scripts
 ::
 ::CodeV1.0
 IF EXIST %Systemdrive%\System.{2559a1f2-21d7-11d4-bdaf-00c04f60b9f0} goto start
